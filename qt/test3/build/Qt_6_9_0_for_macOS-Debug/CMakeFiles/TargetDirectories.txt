@@ -1,9 +1,0 @@
-/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/test3.dir
-/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
-/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
-/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
-/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/install.dir
-/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/install/local.dir
-/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/install/strip.dir
-/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/test3_autogen_timestamp_deps.dir
-/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/test3_autogen.dir
