@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include -isystem /Users/TJC/anaconda3/include/qt -isystem /Users/TJC/anaconda3/include/qt/QtWidgets -isystem /Users/TJC/anaconda3/include/qt/QtGui -isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /Users/TJC/anaconda3/include/qt/QtCore -isystem /Users/TJC/anaconda3/./mkspecs/macx-clang -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -o CMakeFiles/test3.dir/test3_autogen/mocs_compilation.cpp.o -c /Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/mocs_compilation.cpp",
+  "file": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/test3.dir/test3_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include -isystem /Users/TJC/anaconda3/include/qt -isystem /Users/TJC/anaconda3/include/qt/QtWidgets -isystem /Users/TJC/anaconda3/include/qt/QtGui -isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /Users/TJC/anaconda3/include/qt/QtCore -isystem /Users/TJC/anaconda3/./mkspecs/macx-clang -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -o CMakeFiles/test3.dir/main.cpp.o -c /Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/main.cpp",
+  "file": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/main.cpp",
+  "output": "CMakeFiles/test3.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include -isystem /Users/TJC/anaconda3/include/qt -isystem /Users/TJC/anaconda3/include/qt/QtWidgets -isystem /Users/TJC/anaconda3/include/qt/QtGui -isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /Users/TJC/anaconda3/include/qt/QtCore -isystem /Users/TJC/anaconda3/./mkspecs/macx-clang -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -o CMakeFiles/test3.dir/mainwindow.cpp.o -c /Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/mainwindow.cpp",
+  "file": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/mainwindow.cpp",
+  "output": "CMakeFiles/test3.dir/mainwindow.cpp.o"
+},
+{
+  "directory": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include -isystem /Users/TJC/anaconda3/include/qt -isystem /Users/TJC/anaconda3/include/qt/QtWidgets -isystem /Users/TJC/anaconda3/include/qt/QtGui -isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /Users/TJC/anaconda3/include/qt/QtCore -isystem /Users/TJC/anaconda3/./mkspecs/macx-clang -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -o CMakeFiles/test3.dir/event.cpp.o -c /Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/event.cpp",
+  "file": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/event.cpp",
+  "output": "CMakeFiles/test3.dir/event.cpp.o"
+},
+{
+  "directory": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include -isystem /Users/TJC/anaconda3/include/qt -isystem /Users/TJC/anaconda3/include/qt/QtWidgets -isystem /Users/TJC/anaconda3/include/qt/QtGui -isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /Users/TJC/anaconda3/include/qt/QtCore -isystem /Users/TJC/anaconda3/./mkspecs/macx-clang -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -o CMakeFiles/test3.dir/exam.cpp.o -c /Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/exam.cpp",
+  "file": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/exam.cpp",
+  "output": "CMakeFiles/test3.dir/exam.cpp.o"
+},
+{
+  "directory": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include -isystem /Users/TJC/anaconda3/include/qt -isystem /Users/TJC/anaconda3/include/qt/QtWidgets -isystem /Users/TJC/anaconda3/include/qt/QtGui -isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /Users/TJC/anaconda3/include/qt/QtCore -isystem /Users/TJC/anaconda3/./mkspecs/macx-clang -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -o CMakeFiles/test3.dir/lecture.cpp.o -c /Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/lecture.cpp",
+  "file": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/lecture.cpp",
+  "output": "CMakeFiles/test3.dir/lecture.cpp.o"
+},
+{
+  "directory": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include -isystem /Users/TJC/anaconda3/include/qt -isystem /Users/TJC/anaconda3/include/qt/QtWidgets -isystem /Users/TJC/anaconda3/include/qt/QtGui -isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /Users/TJC/anaconda3/include/qt/QtCore -isystem /Users/TJC/anaconda3/./mkspecs/macx-clang -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -o CMakeFiles/test3.dir/term.cpp.o -c /Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/term.cpp",
+  "file": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/term.cpp",
+  "output": "CMakeFiles/test3.dir/term.cpp.o"
+},
+{
+  "directory": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include -isystem /Users/TJC/anaconda3/include/qt -isystem /Users/TJC/anaconda3/include/qt/QtWidgets -isystem /Users/TJC/anaconda3/include/qt/QtGui -isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /Users/TJC/anaconda3/include/qt/QtCore -isystem /Users/TJC/anaconda3/./mkspecs/macx-clang -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -o CMakeFiles/test3.dir/timeData.cpp.o -c /Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/timeData.cpp",
+  "file": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/timeData.cpp",
+  "output": "CMakeFiles/test3.dir/timeData.cpp.o"
+},
+{
+  "directory": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include -isystem /Users/TJC/anaconda3/include/qt -isystem /Users/TJC/anaconda3/include/qt/QtWidgets -isystem /Users/TJC/anaconda3/include/qt/QtGui -isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /Users/TJC/anaconda3/include/qt/QtCore -isystem /Users/TJC/anaconda3/./mkspecs/macx-clang -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -o CMakeFiles/test3.dir/timepoint.cpp.o -c /Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/timepoint.cpp",
+  "file": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/timepoint.cpp",
+  "output": "CMakeFiles/test3.dir/timepoint.cpp.o"
+},
+{
+  "directory": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include -isystem /Users/TJC/anaconda3/include/qt -isystem /Users/TJC/anaconda3/include/qt/QtWidgets -isystem /Users/TJC/anaconda3/include/qt/QtGui -isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /Users/TJC/anaconda3/include/qt/QtCore -isystem /Users/TJC/anaconda3/./mkspecs/macx-clang -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -o CMakeFiles/test3.dir/todo.cpp.o -c /Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/todo.cpp",
+  "file": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/todo.cpp",
+  "output": "CMakeFiles/test3.dir/todo.cpp.o"
+},
+{
+  "directory": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include -isystem /Users/TJC/anaconda3/include/qt -isystem /Users/TJC/anaconda3/include/qt/QtWidgets -isystem /Users/TJC/anaconda3/include/qt/QtGui -isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /Users/TJC/anaconda3/include/qt/QtCore -isystem /Users/TJC/anaconda3/./mkspecs/macx-clang -g -std=gnu++20 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fPIC -o CMakeFiles/test3.dir/main_new.cpp.o -c /Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/main_new.cpp",
+  "file": "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/main_new.cpp",
+  "output": "CMakeFiles/test3.dir/main_new.cpp.o"
+}
+]

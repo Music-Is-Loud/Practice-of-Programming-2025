@@ -1,0 +1,9 @@
+(*created_large_buttons)[now_edit_bbutton]->cycleline = repeat_info;
+    (*created_large_buttons)[now_edit_bbutton]->pair.first = unitnum;
+                (*created_large_buttons)[now_edit_bbutton]->pair.second = unittype;
+                (*created_large_buttons)[now_edit_bbutton]->is_have_cycle = true;
+
+                (*created_small_buttons)[now_edit_bbutton]->cycleline = repeat_info;
+                (*created_small_buttons)[now_edit_bbutton]->pair.first = unitnum;
+                (*created_small_buttons)[now_edit_bbutton]->pair.second = unittype;
+                (*created_small_buttons)[now_edit_bbutton]->is_have_cycle = true;

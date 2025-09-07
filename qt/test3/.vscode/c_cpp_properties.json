@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/TJC/anaconda3/include/qt",
+                "/Users/TJC/anaconda3/include/qt/QtCore",
+                "/Users/TJC/anaconda3/include/qt/QtGui",
+                "/Users/TJC/anaconda3/include/qt/QtWidgets"
+            ],
+            "defines": [
+                "QT_CORE_LIB, QT_GUI_LIB, QT_WIDGETS_LIB"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++20",
+            "intelliSenseMode": "macos-clang-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,23 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 缓存缩略图
+Icon?
+._*
+
+# 卷标文件
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+
+# 网络驱动器相关
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+todomiaomiao/Todos_PKU_chengshe/

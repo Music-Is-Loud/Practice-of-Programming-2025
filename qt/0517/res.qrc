@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/Themes">
+        <file>Assets/Themes/backgrounds/beach/2560x1600.jpg</file>
+        <file>Assets/Themes/backgrounds/beach/thumb.jpg</file>
+        <file>Assets/Themes/backgrounds/desert/2560x1600.jpg</file>
+        <file>Assets/Themes/backgrounds/desert/thumb.jpg</file>
+        <file>Assets/Themes/backgrounds/field/2560x1600.jpg</file>
+        <file>Assets/Themes/backgrounds/field/thumb.jpg</file>
+        <file>Assets/circle-check.svg</file>
+        <file>Assets/circle-large.svg</file>
+        <file>Assets/JumpList/dark/All_dark_256.png</file>
+        <file>Assets/JumpList/dark/Assign_dark_256.png</file>
+        <file>Assets/JumpList/dark/Complete_dark_256.png</file>
+        <file>Assets/JumpList/dark/Flag_dark_256.png</file>
+        <file>Assets/JumpList/dark/Imp_dark_256.png</file>
+        <file>Assets/JumpList/dark/MyDay_dark_256.png</file>
+        <file>Assets/JumpList/dark/Planned_dark_256.png</file>
+        <file>Assets/JumpList/dark/Tasks_dark_256.png</file>
+        <file>Assets/alarm.svg</file>
+        <file>Assets/canlendar.svg</file>
+        <file>Assets/repeat.svg</file>
+        <file>Assets/suggestions-empty-state.scale-200.png</file>
+        <file>Assets/down.svg</file>
+        <file>Assets/delete.svg</file>
+        <file>Assets/finish.svg</file>
+        <file>Assets/small_window_icon.svg</file>
+        <file>Assets/smallwindow.svg</file>
+        <file>Assets/changecolor_icon.svg</file>
+        <file>Assets/classicon.svg</file>
+        <file>Assets/clock_icon.svg</file>
+        <file>Assets/extra_info_button.svg</file>
+        <file>Assets/add_icon.svg</file>
+        <file>Assets/download.svg</file>
+    </qresource>
+</RCC>

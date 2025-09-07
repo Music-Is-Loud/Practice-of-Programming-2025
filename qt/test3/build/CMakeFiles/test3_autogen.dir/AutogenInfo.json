@@ -1,0 +1,243 @@
+{
+	"BUILD_DIR" : "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3",
+	"CMAKE_EXECUTABLE" : "/usr/local/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/CMakeLists.txt",
+		"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/CMakeFiles/3.31.6/CMakeSystem.cmake",
+		"/usr/local/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/usr/local/share/cmake/Modules/Platform/Darwin-Initialize.cmake",
+		"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/CMakeFiles/3.31.6/CMakeCXXCompiler.cmake",
+		"/usr/local/share/cmake/Modules/CMakeSystemSpecificInformation.cmake",
+		"/usr/local/share/cmake/Modules/CMakeGenericSystem.cmake",
+		"/usr/local/share/cmake/Modules/CMakeInitializeConfigs.cmake",
+		"/usr/local/share/cmake/Modules/Platform/Darwin.cmake",
+		"/usr/local/share/cmake/Modules/Platform/UnixPaths.cmake",
+		"/usr/local/share/cmake/Modules/CMakeCXXInformation.cmake",
+		"/usr/local/share/cmake/Modules/CMakeLanguageInformation.cmake",
+		"/usr/local/share/cmake/Modules/Compiler/AppleClang-CXX.cmake",
+		"/usr/local/share/cmake/Modules/Compiler/Clang.cmake",
+		"/usr/local/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/usr/local/share/cmake/Modules/Compiler/GNU.cmake",
+		"/usr/local/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/usr/local/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake",
+		"/usr/local/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake",
+		"/usr/local/share/cmake/Modules/Platform/Apple-Clang.cmake",
+		"/usr/local/share/cmake/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/local/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake",
+		"/usr/local/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake",
+		"/usr/local/share/cmake/Modules/Linker/AppleClang-CXX.cmake",
+		"/usr/local/share/cmake/Modules/Linker/AppleClang.cmake",
+		"/usr/local/share/cmake/Modules/Platform/Linker/Apple-AppleClang-CXX.cmake",
+		"/usr/local/share/cmake/Modules/Platform/Linker/Apple-AppleClang.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5/Qt5Config.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5/Qt5Config.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/usr/local/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QMacHeifPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/usr/local/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake",
+		"/Users/TJC/anaconda3/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake",
+		"/usr/local/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/usr/local/share/cmake/Modules/GNUInstallDirs.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "test3_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/event.h",
+			"MU",
+			"EWIEGA46WW/moc_event.cpp",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/exam.h",
+			"MU",
+			"EWIEGA46WW/moc_exam.cpp",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/lecture.h",
+			"MU",
+			"EWIEGA46WW/moc_lecture.cpp",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/term.h",
+			"MU",
+			"EWIEGA46WW/moc_term.cpp",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/timeData.h",
+			"MU",
+			"EWIEGA46WW/moc_timeData.cpp",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/timepoint.h",
+			"MU",
+			"EWIEGA46WW/moc_timepoint.cpp",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/todo.h",
+			"MU",
+			"EWIEGA46WW/moc_todo.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/TJC/anaconda3/include/qt",
+		"/Users/TJC/anaconda3/include/qt/QtWidgets",
+		"/Users/TJC/anaconda3/include/qt/QtGui",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/Users/TJC/anaconda3/include/qt/QtCore",
+		"/Users/TJC/anaconda3/mkspecs/macx-clang",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/clang++",
+		"-std=gnu++20",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/test3_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/CMakeFiles/test3_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/TJC/anaconda3/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/TJC/anaconda3/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/build/CMakeFiles/test3_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/event.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/exam.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/lecture.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/main_new.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/term.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/timeData.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/timepoint.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/TJC/Desktop/vscode/Practice_of_Programming/qt/test3/todo.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
